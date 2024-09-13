@@ -24,11 +24,8 @@ sections:
       buttons:
         - text: Read my latest paper on LLMs
           icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
+          url: https://arxiv.org/abs/2405.19327 
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/xingwei-qu-b7301b15a/  
 ---
